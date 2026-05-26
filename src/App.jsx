@@ -68,12 +68,12 @@ const benefits = [
 
 const faqs = [
   {
-    q: "¿Antaa es un banco?",
-    a: "No. Antaa es una plataforma privada de soluciones crediticias que ofrece financiamiento con fondos propios, sujeto a evaluación y aprobación.",
+    q: "¿Puedo aplicar si soy extranjero?",
+    a: "Si, solo necesitas tu pasaporte vigente..",
   },
   {
     q: "¿Consultan historial crediticio?",
-    a: "Sí. La evaluación puede incluir consulta crediticia, validación de identidad, capacidad de pago y revisión documental.",
+    a: "Sí, para validar tu identidad. Tu historial no importa.",
   },
   {
     q: "¿Cuánto tiempo tarda la respuesta?",

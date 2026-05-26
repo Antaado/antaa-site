@@ -439,7 +439,7 @@ export default function AntaaLandingPage() {
               </div>
               <div>
                 <h3 className="font-black">Contacto</h3>
-                <p className="mt-4 text-sm text-slate-300">solicitudes@antaa.do</p>
+                <p className="mt-4 text-sm text-slate-300">solicitudes@antaainversiones.com</p>
                 <p className="mt-2 text-sm text-slate-300">Santo Domingo, República Dominicana</p>
               </div>
               <div>
